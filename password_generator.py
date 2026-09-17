@@ -14,3 +14,5 @@ for i in range(num_words):
     passwords.append(word_with_number)
 
 final_password = "-".join(passwords)
+
+print(final_password)
